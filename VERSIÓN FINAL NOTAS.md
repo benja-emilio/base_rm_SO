@@ -1,7 +1,7 @@
 #### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# Asamblea Elisa Correa
+# NOMBRE ASAMBLEA
 
-[instagram](https://www.instagram.com/asamblea.elisa.correa/)
+[instagram]()
 [facebook]()
 [twitter]()
 <correo@correo.cl>
@@ -45,6 +45,21 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Protección medioambiental
+* Urbanización y problemática habitacional
+* Plan regulador
+* Crisis sanitaria 
+* Red de abastecimiento 
+* Red de oficios
+* Proceso constituyente
+* Conflicto Mapuche
+* Feminismo
+* Libertad para lxs presxs de la revuelta
+* Recuperación de la memoria
+* Protección de los DD.HH
+* Protección de la infancia
+* Educación y Escolarizació
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
@@ -52,6 +67,31 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Asambleas 
+* Marchas 
+* Muralismo
+* Cacerolazo 
+* Red de oficios 
+* Programas online de conversaciones (streaming)
+* Centro de acopio 
+* Contra información 
+* Charlas y actividades formativas
+* Olla común 
+* Intervención artística 
+* Actividades culturales
+* Velatón 
+* Cicletadas
+* Voluntariado para rescate de fauna
+* junta de firmas para peticiones al tribunal ambiental
+* divulgación científica
+* Operativo de salud preventivo
+* Campaña solidaria por incendios 
+* Caminatas
+* talleres de primeros auxilios
+* Emplazamiento a autoridades
+* Ferias libres
+* Rifa
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
