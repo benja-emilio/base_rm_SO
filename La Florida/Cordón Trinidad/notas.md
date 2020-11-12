@@ -1,8 +1,8 @@
-#### FOLIO: FLO12
-# Asamblea del Veintidós
+#### FOLIO: FLO14
+# Cordón Trinidad
 
-[instagram](https://www.instagram.com/asamblea22/)
-[facebook](https://www.facebook.com/manuel.aranguiz.357)
+[instagram](https://www.instagram.com/cordon_trinidad/)
+[facebook]()
 [twitter]()
 <correo@correo.cl>
 ---
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|652|325|40|0|
+|0|0|0|0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG 29 de diciembre del 2019
+* Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
@@ -40,31 +40,18 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad: Comuna de la Florida, zona paradero 22 de Av. Vicuña Mackenna
+* Sector de la comuna/ciudad:
 
 ---
 ### Describir temas de interés y/o trabajo
 
-* Feminismo
-* Protección de los DD.HH
-* Protección de la infancia
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
-* Buen vivir 
-* Economía local 
-* Recuperación de la memoria
-* Proceso constituyente
-
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
-
-* Asambleas 
-* Velatón 
-* Charlas y actividades formativas
-* Cacerolazo
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
