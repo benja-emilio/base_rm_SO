@@ -2,9 +2,9 @@
 # Asamblea Diego Portales LF26
 
 [instagram](https://www.instagram.com/asamblea_diego_portales/)
-[facebook]()
+[facebook](https://www.facebook.com/Asamblea-autoconvocada-Diego-Portales-LF26-100655128062149)
 [twitter]()
-<correo@correo.cl>
+<asambleaautoconvocadadp@gmail.com>
 ---
 
 ### Representantes
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1312|407|76|1|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 27 de noviembre 2019
 
 ---
 ### Frecuencia de publicación.
@@ -40,10 +40,15 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de la Florida, zona Av. Diego Portales. 
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Feminismo
+* Libertad para lxs presxs de la revuelta
+* Crisis sanitaria
+* Conflicto Mapuche
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -52,6 +57,15 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Actividades culturales
+* Asambleas 
+* Charlas y actividades formativas
+* Economía local 
+* Marchas
+* Olla común
+* Centro de acopio
+* Cacerolazo
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

@@ -58,7 +58,8 @@ Actividades:
 * Recuperación de la memoria
 * Protección de los DD.HH
 * Protección de la infancia
-* Educación y Escolarizació
+* Educación y Escolarización
+* Economía local 
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -83,8 +84,8 @@ Actividades:
 * Velatón 
 * Cicletadas
 * Voluntariado para rescate de fauna
-* junta de firmas para peticiones al tribunal ambiental
-* divulgación científica
+* Junta de firmas para peticiones al tribunal ambiental
+* Divulgación científica
 * Operativo de salud preventivo
 * Campaña solidaria por incendios 
 * Caminatas

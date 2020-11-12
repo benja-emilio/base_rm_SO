@@ -48,14 +48,16 @@ Actividades:
 * Feminismo
 * Protección de los DD.HH
 * Protección de la infancia
+* Economía local 
+* Recuperación de la memoria
+* Proceso constituyente
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
 * Buen vivir 
-* Economía local 
-* Recuperación de la memoria
-* Proceso constituyente
+
 
 ---
 ### ¿Que se hace?
