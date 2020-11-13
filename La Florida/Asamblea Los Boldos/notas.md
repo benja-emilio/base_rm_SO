@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|441|66|20|0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 29 de enero del 2020
 
 ---
 ### Frecuencia de publicación.
@@ -40,7 +40,7 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de la Florida
 
 ---
 ### Describir temas de interés y/o trabajo
@@ -52,6 +52,12 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Asambleas 
+* Cacerolazo
+* Cicletadas
+* Actividades culturales
+* Charlas y actividades formativas
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
