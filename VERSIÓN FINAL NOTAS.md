@@ -82,7 +82,7 @@ Actividades:
 * Intervención artística 
 * Actividades culturales
 * Velatón 
-* Cicletadas
+* Cicletadass
 * Voluntariado para rescate de fauna
 * Junta de firmas para peticiones al tribunal ambiental
 * Divulgación científica
@@ -93,6 +93,8 @@ Actividades:
 * Emplazamiento a autoridades
 * Ferias libres
 * Rifa
+* Ayekan 
+* Capsulas de opinión
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

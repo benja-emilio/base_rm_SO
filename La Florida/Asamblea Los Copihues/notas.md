@@ -2,9 +2,9 @@
 # Asamblea Los Copihues
 
 [instagram](https://www.instagram.com/asambleaterritorialloscopihues/)
-[facebook]()
+[facebook](https://www.facebook.com/at.loscopihues.94)
 [twitter]()
-<correo@correo.cl>
+<atloscopihues@gmail.com>
 ---
 
 ### Representantes
@@ -23,35 +23,53 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1689|1244|163|7|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 26 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Existen multiples publicaciones por dia, sin embargo, en el mes de febrero del 2020 existe una baja considerable de publicaciones
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de la FLorida, villa los Copihues
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Conflicto Mapuche
+* Educación y Escolarización
+* Crisis sanitaria 
+* Red de abastecimiento 
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+* TODO EL PODER A LAS ASAMBLEAS
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Actividades culturales
+* Asambleas 
+* Marchas
+* Cacerolazo 
+* Velatón 
+* Charlas y actividades formativas
+* Contra información 
+* Capsulas de opinión
+* Centro de acopio
+* Olla común 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

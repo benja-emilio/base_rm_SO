@@ -18,12 +18,12 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Difusión de sus actividades |No tiene|No tiene|[Canal de youtube sin contenido publicado](https://www.youtube.com/channel/UCy71MVGcP1Z45aidRDgM52Q/featured) |
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|441|66|20|0|
+|446|66|20|0|
 
 ---
 
@@ -40,10 +40,13 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad: Comuna de la Florida
+* Sector de la comuna/ciudad: Comuna de la Florida, Villa Santa Beatriz
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Feminismo
+* Red de abastecimiento
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -58,6 +61,7 @@ Actividades:
 * Cicletadas
 * Actividades culturales
 * Charlas y actividades formativas
+* Centro de acopio
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
