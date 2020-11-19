@@ -2,9 +2,9 @@
 # Asamblea Rojas Magallanes
 
 [instagram](https://www.instagram.com/asamblea.rojasmagallanes/)
-[facebook]()
+[facebook](https://www.facebook.com/Asamblea-Rojas-Magallanes-101071738068768/)
 [twitter]()
-<correo@correo.cl>
+<asamblearojasmagallanes@gmail.com>
 ---
 
 ### Representantes
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1559|192|137|0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 26 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.
@@ -45,6 +45,15 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Proceso constituyente
+* Libertad para lxs presxs de la revuelta
+* Educación y Escolarización
+* Protección de los DD.HH
+* Crisis sanitaria 
+* Red de oficios
+* Conflicto Mapuche
+* Protección de la infancia
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
@@ -52,6 +61,21 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Charlas y actividades formativas
+* Ferias libres
+* Velatón 
+* Centro de acopio 
+* Asambleas 
+* Marchas 
+* Tuitazo
+* Capsulas de opinión
+* Feminismo
+* Protección medioambiental
+* Caravana
+* Recuperación de la memoria
+* fiscalización para proteger el bosque
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

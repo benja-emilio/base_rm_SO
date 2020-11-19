@@ -1,7 +1,7 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# NOMBRE ASAMBLEA
+#### FOLIO: FLO15
+# Asamblea Territorial Nueva Habana
 
-[instagram]()
+[instagram](https://www.instagram.com/asambleaterritorialnva.habana/)
 [facebook]()
 [twitter]()
 <correo@correo.cl>
@@ -14,6 +14,8 @@
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
+* Asamblea Los Copihues
+
 ### Redes sociales
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
@@ -23,43 +25,29 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|680|345|59|1|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 17 de enero del 2020
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Existen múltiples publicaciones en enero para luego en febrero quedar sin actividad. En marzo vuelve a estar activos  
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de La Florida, ex campamento Nueva Habana. 
 
 ---
 ### Describir temas de interés y/o trabajo
 
-* Protección medioambiental
-* Urbanización y problemática habitacional
-* Plan regulador
-* Crisis sanitaria 
-* Red de abastecimiento 
-* Red de oficios
-* Proceso constituyente
-* Conflicto Mapuche
-* Feminismo
-* Libertad para lxs presxs de la revuelta
-* Recuperación de la memoria
-* Protección de los DD.HH
-* Protección de la infancia
-* Educación y Escolarización
-* Economía local 
+* Red de abastecimiento
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -69,38 +57,11 @@ Actividades:
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
 
-* Asambleas 
-* Marchas 
-* Muralismo
-* Cacerolazo 
-* Programas online de conversaciones (streaming)
-* Centro de acopio 
-* Contra información 
-* Charlas y actividades formativas
-* Olla común 
-* Intervención artística 
-* Actividades culturales
-* Velatón 
-* Cicletadas
-* Voluntariado para rescate de fauna
-* Junta de firmas para peticiones al tribunal ambiental
-* Divulgación científica
-* Operativo de salud preventivo
-* Campaña solidaria por incendios 
-* Caminatas
-* talleres de primeros auxilios
-* Emplazamiento a autoridades
-* Ferias libres
-* Rifa
-* Ayekan 
 * Capsulas de opinión
-* Tuitazo
-* Caravana
-* fiscalización para proteger el bosque
-* Creación de huertos urbanos
-* Agitación y propaganda 
-* Capsulas sobre huertas
-* Sanitización barrial 
+* Cacerolazo 
+* Marchas 
+* Asambleas
+* Olla común 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
