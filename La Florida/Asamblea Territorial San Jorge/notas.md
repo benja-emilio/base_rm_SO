@@ -2,7 +2,7 @@
 # Asamblea Territorial San Jorge
 
 [instagram](https://www.instagram.com/asamblea_sanjorge/)
-[facebook]()
+[facebook](https://www.facebook.com/Asamblea-San-Jorge-103680917752145/)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1495|935|240|2|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 5 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.
@@ -40,10 +40,19 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de La Florida, zona plaza San Jorge. 
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Sistema de seguridad social (pensiones)
+* Feminismo
+* Protección de los DD.HH
+* Proceso constituyente
+* Conflicto Mapuche
+* Red de abastecimiento 
+* Crisis sanitaria 
+* Economía local 
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -52,6 +61,16 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Charlas y actividades formativas
+* Cacerolazo 
+* Asambleas 
+* Velatón 
+* Agitación y propaganda 
+* Actividades culturales
+* Olla común 
+* Programas online de conversaciones (streaming)
+* Contra información 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
