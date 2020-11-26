@@ -2,7 +2,7 @@
 # Asamblea Villa O'higgins
 
 [instagram](https://www.instagram.com/asambleavillaohiggins/)
-[facebook]()
+[facebook](https://www.facebook.com/coordinadora.villaohiggins)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1309|236|124| 0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 6 de diciembre del 2019
 
 ---
 ### Frecuencia de publicación.
@@ -45,6 +45,12 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Conflicto Mapuche
+* Crisis sanitaria 
+* Protección de los DD.HH
+* Feminismo
+* Recuperación de la memoria
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
@@ -52,6 +58,15 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Charlas y actividades formativas
+* Cacerolazo 
+* Centro de acopio 
+* Marchas 
+* Programas online de conversaciones (streaming)
+* Olla común 
+* Tuitazo
+* Emplazamiento a autoridades   
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -93,3 +108,5 @@ Actividades:
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+
+[Lista de la biblioteca](https://drive.google.com/file/d/11F8Sn5srvKVnEz5w_L2DPtXcZNz7WxJc/view)

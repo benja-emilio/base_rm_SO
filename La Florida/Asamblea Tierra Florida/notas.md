@@ -2,7 +2,7 @@
 # Asamblea Tierra Florida
 
 [instagram](https://www.instagram.com/asamblea_tierraflorida/)
-[facebook]()
+[facebook](https://www.facebook.com/AsambleaTerritorialTierraFlorida/)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -23,27 +23,34 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|750|242|101|0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 26 de diciembre del 2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Tienen publicaciones principalmente en el mes de diciembre del 2019 y enero 2020, aunque son de actividades que realizan. Luego en Febrero solo hay una publicación, para retomarla en marzo. Desde esa epoca son publicaciónes casi semanales, muy pocas por mes hasta agosto donde se reactivan con mucha infografía. 
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de la Florida, Plaza Los Mapuches
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Protección de los DD.HH
+* Proceso constituyente
+* Crisis sanitaria 
+* Feminismo
+* Conflicto Mapuche
+* Libertad para lxs presxs de la revuelta
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -52,6 +59,14 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Actividades culturales
+* Ferias libres
+* Cacerolazo 
+* Velatón
+* Centro de acopio 
+* Charlas y actividades formativas
+* Contra información 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
