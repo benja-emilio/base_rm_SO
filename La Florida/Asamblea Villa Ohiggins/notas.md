@@ -66,7 +66,10 @@ Actividades:
 * Programas online de conversaciones (streaming)
 * Olla común 
 * Tuitazo
-* Emplazamiento a autoridades   
+* Emplazamiento a autoridades 
+* Muralismo
+* Ferias libres
+* Creación de huertos urbanos
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

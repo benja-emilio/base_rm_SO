@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|6004|468|275|0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 13 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.
@@ -40,18 +40,42 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de la Florida. Sector calle Walker esq. Av. La Florida. 
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Protección de los DD.HH
+* Feminismo
+* Conflicto Mapuche
+* Libertad para lxs presxs de la revuelta
+* Crisis sanitaria
+* Sistema de seguridad social (pensiones)
+* Recuperación de la memoria
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+* El buen vivir
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Asambleas 
+* Actividades culturales
+* Centro de acopio 
+* Once comunitaria
+* Cacerolazo 
+* Trawün
+* Actividades culturale
+* talleres de primeros auxilios
+* Charlas y actividades formativas
+* Marchas 
+* Cicletadas
+* Velatón 
+* Emplazamiento a autoridades
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

@@ -60,6 +60,7 @@ Actividades:
 * Protección de la infancia
 * Educación y Escolarización
 * Economía local 
+* Sistema de seguridad social (pensiones)
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -101,6 +102,8 @@ Actividades:
 * Agitación y propaganda 
 * Capsulas sobre huertas
 * Sanitización barrial 
+* Once comunitaria
+* Trawün
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
