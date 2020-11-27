@@ -1,5 +1,5 @@
 #### FOLIO: FLO17
-# NOMBRE ASAMBLEA
+# Jardín Alto Organizado
 
 [instagram]()
 [facebook]()
