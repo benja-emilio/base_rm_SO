@@ -1,4 +1,4 @@
-#### FOLIO: FLO2
+#### FOLIO: FLO1
 # Asamblea Los Boldos
 
 [instagram](https://www.instagram.com/asamblealosboldos/)

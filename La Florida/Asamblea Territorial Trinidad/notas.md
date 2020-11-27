@@ -1,7 +1,7 @@
-#### FOLIO: FLO14
-# Cordón Trinidad
+#### FOLIO: FLO19
+# NOMBRE ASAMBLEA
 
-[instagram](https://www.instagram.com/cordon_trinidad/)
+[instagram]()
 [facebook]()
 [twitter]()
 <correo@correo.cl>

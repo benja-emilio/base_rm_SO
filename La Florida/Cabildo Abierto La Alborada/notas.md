@@ -1,8 +1,8 @@
-#### FOLIO: FLO11
+#### FOLIO: FLO10
 # Cabildo Abierto La Alborada
 
 [instagram](https://www.instagram.com/cabildolaalborada/)
-[facebook]()
+[facebook](https://www.facebook.com/cabildoabierto.laalborada.7)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -18,18 +18,18 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Es usado principalmente para coordinar actividades, aparte, también incluye infografía de diferentes conflictos sociales |0|No tiene|[canal de youtube](https://www.youtube.com/channel/UC4zMJoxjBevyJlb_gu5cuFw) |
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1059|580|222|1|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 1 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.
@@ -40,10 +40,21 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de la Florida, calles Trinidad con Colombia 
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Proceso constituyente
+* Protección de los DD.HH
+* Conflicto Mapuche
+* Feminismo
+* Crisis sanitaria
+* Economía local 
+* Red de oficios
+* Sistema de seguridad social (pensiones)
+* Libertad para lxs presxs de la revuelta
+* Recuperación de la memoria
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -52,6 +63,18 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Asambleas 
+* Actividades culturales
+* Once comunitaria
+* Velatón
+* Intervención artística 
+* Charlas y actividades formativas
+* Tuitazo
+* Emplazamiento a autoridades (Alcalde Carter)
+* Centro de acopio 
+* Rifa
+* Muralismo
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

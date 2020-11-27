@@ -1,8 +1,8 @@
-#### FOLIO: FLO6
-# Asamblea Territorial Aluvión
+#### FOLIO: FLO14
+# NOMBRE ASAMBLEA
 
-[instagram](https://www.instagram.com/asamblea.el.aluvion/)
-[facebook](https://www.facebook.com/groups/865988903834003/)
+[instagram](https://www.instagram.com/asambleasantaraquel/)
+[facebook]()
 [twitter]()
 <correo@correo.cl>
 ---
@@ -18,18 +18,18 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|Uso de esta red como grupo con petición para ingresar|0|0|
+|0|0|0|0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|1082|437|204|0|
+|0|0|0|0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG 3 de enero del 2020
+* Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
@@ -45,16 +45,6 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
-* Recuperación de la memoria
-* Educación y Escolarización
-* Proceso constituyente
-* Crisis sanitaria 
-* Protección de los DD.HH
-* Libertad para lxs presxs de la revuelta
-* Red de abastecimiento
-* Urbanización y problemática habitacional
-* Feminismo
-
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
@@ -62,21 +52,6 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
-
-* Marchas
-* Asambleas
-* Contra información 
-* Actividades culturales
-* Charlas y actividades formativas
-* Creación de huertos urbanos
-* Agitación y propaganda
-* Centro de acopio 
-* Programas online de conversaciones (streaming)
-* Velatón 
-* Capsulas sobre huertas
-* Sanitización barrial 
-* Caravana
-* Cicletadas
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -90,8 +65,6 @@ Actividades:
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
-
-![imagen1](97377733_291248435206059_5819791337322446848_n.jpg)
 
 **Banderas:**
 

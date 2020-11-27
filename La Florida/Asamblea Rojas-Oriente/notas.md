@@ -1,7 +1,7 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# Asamblea Villa El Alba
+#### FOLIO: FLO15
+# Asamblea Rojas-Oriente
 
-[instagram](https://www.instagram.com/asambleaelalba/)
+[instagram](https://www.instagram.com/asamblea_rojas_oriente/)
 [facebook]()
 [twitter]()
 <correo@correo.cl>

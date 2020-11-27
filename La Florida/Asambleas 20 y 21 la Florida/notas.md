@@ -1,7 +1,7 @@
-#### FOLIO: FLO1
-# Cordón Cordillera 
+#### FOLIO: FLO16
+# NOMBRE ASAMBLEA
 
-[instagram](https://www.instagram.com/cordoncordillera/)
+[instagram](https://www.instagram.com/asambleadel20/)
 [facebook]()
 [twitter]()
 <correo@correo.cl>

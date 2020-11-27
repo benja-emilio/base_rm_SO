@@ -1,4 +1,4 @@
-#### FOLIO: FLO3
+#### FOLIO: FLO2
 # Asamblea Villa O'higgins
 
 [instagram](https://www.instagram.com/asambleavillaohiggins/)

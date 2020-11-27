@@ -1,4 +1,4 @@
-#### FOLIO: FLO8
+#### FOLIO: FLO7
 # Asamblea Diego Portales LF26
 
 [instagram](https://www.instagram.com/asamblea_diego_portales/)
