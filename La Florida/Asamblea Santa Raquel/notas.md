@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|594|167|87|1|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 11 de marzo del 2020
 
 ---
 ### Frecuencia de publicación.
@@ -45,6 +45,11 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Proceso constituyente 
+* Crisis sanitaria 
+* Protección de los DD.HH
+* Recuperación de la memoria
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
@@ -52,6 +57,14 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Marchas 
+* Agitación y propaganda
+* Cacerolazo
+* Centro de acopio 
+* Olla común 
+* Velatón 
+* Muralismo
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

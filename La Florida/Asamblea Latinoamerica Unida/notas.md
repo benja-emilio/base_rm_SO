@@ -2,7 +2,7 @@
 # Asamblea Latinoamerica Unida
 
 [instagram](https://www.instagram.com/asamblea.lau/)
-[facebook]()
+[facebook](https://www.facebook.com/AsambleaLAU)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -18,32 +18,39 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Principalmente difusión de información, y en segunda medida coordinar actividades|0|0|[canal de youtube](https://www.youtube.com/channel/UCOR1QwX_09Ftxl2SKnP5qLg) |
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|503|544|62|0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 24 de marzo del 2020
 
 ---
 ### Frecuencia de publicación.
 
 Publicaciones:
 
-Actividades:
+Actividades: Se puede apreciar una actividad continua desde el mes de marzo hasta octubre del año 2020
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de La Florida
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Crisis sanitaria
+* Proceso constituyente
+* Centro de acopio 
+* Protección de los DD.HH
+* Sistema de seguridad social (pensiones)
+* Contra información
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -52,6 +59,15 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Asambleas 
+* Programas online de conversaciones (streaming)
+* Charlas y actividades formativas
+* Muralismo
+* Caravana}
+* Centro de acopio
+* Velatón 
+* Banderazo 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

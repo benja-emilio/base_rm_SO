@@ -104,6 +104,7 @@ Actividades:
 * Sanitización barrial 
 * Once comunitaria
 * Trawün
+* Banderazo 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
