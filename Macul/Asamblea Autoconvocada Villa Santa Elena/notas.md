@@ -2,9 +2,9 @@
 # Asamblea Autoconvocada Villa Santa Elena
 
 [instagram](https://www.instagram.com/asamblea_villasantaelena/)
-[facebook]()
+[facebook](https://www.facebook.com/Asamblea-autoconvocada-villa-Santa-Elena-106569304229749)
 [twitter]()
-<correo@correo.cl>
+<asambleavse@gmail.com>
 ---
 
 ### Representantes
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|195|139|19|0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 23 de enero 2020
 
 ---
 ### Frecuencia de publicación.

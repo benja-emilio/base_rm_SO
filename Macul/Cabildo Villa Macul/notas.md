@@ -1,10 +1,10 @@
 #### FOLIO: MAC2
 # Cabildo Villa Macul
 
-[instagram]()
-[facebook]()
+[instagram](https://www.instagram.com/cabildo.villa.macul/)
+[facebook](https://www.facebook.com/cabildovillamaculCVM)
 [twitter]()
-<correo@correo.cl>
+<cabildovillamacul@gmail.com>
 ---
 
 ### Representantes
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|705|125|38|0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 20 de marzo del 2020
 
 ---
 ### Frecuencia de publicación.

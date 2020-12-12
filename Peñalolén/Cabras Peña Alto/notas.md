@@ -1,10 +1,10 @@
 #### FOLIO: PEÑ7
-# Coordinadora Feminista Peñalolén
+# Cabras Peña Alto 
 
-[instagram](https://www.instagram.com/coordi_feminista_penalolen/)
-[facebook](https://www.facebook.com/Coordinadora-Feminista-de-Peñalolen-107856607687833/)
+[instagram](https://www.instagram.com/cabras_penalto/)
+[facebook](https://www.facebook.com/cabras.penaalto)
 [twitter]()
-<cftpenalolen@gmail.com>
+<correo@correo.cl>
 ---
 
 ### Representantes
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|695|109|62|0|
+|1110|971|83|3|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG 27 de julio del 2020
+* Primera Publicación IG 2 de abril del 2020
 
 ---
 ### Frecuencia de publicación.

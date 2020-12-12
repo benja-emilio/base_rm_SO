@@ -2,9 +2,9 @@
 # Organicemos Dignidad La Florida
 
 [instagram](https://www.instagram.com/organicemosdignidadlaflorida/)
-[facebook]()
+[facebook](https://www.facebook.com/Organicemos-Dignidad-en-La-Florida-112015640502599)
 [twitter]()
-<correo@correo.cl>
+<organicemosdignidadlaflorida@gmail.com>
 ---
 
 ### Representantes

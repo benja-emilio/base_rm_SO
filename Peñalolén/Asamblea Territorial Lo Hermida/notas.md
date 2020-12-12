@@ -1,8 +1,8 @@
-#### FOLIO: PEÑ2
+#### FOLIO: PEÑ1
 # Asamblea Territorial Lo Hermida
 
 [instagram](https://www.instagram.com/asamblea.lohermida/)
-[facebook]()
+[facebook](https://www.facebook.com/Asamblea-Territorial-Lo-Hermida-101915938206836/)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|5112|920|152|2|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 14 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.

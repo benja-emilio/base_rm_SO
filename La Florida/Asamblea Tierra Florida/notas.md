@@ -4,7 +4,7 @@
 [instagram](https://www.instagram.com/asamblea_tierraflorida/)
 [facebook](https://www.facebook.com/AsambleaTerritorialTierraFlorida/)
 [twitter]()
-<correo@correo.cl>
+<asambleatierraflorida@gmail.com>
 ---
 
 ### Representantes

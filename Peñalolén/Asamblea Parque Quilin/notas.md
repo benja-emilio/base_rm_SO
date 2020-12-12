@@ -1,8 +1,8 @@
-#### FOLIO: PEÑ5
+#### FOLIO: PEÑ4
 # Asamblea Parque Quilin
 
 [instagram](https://www.instagram.com/asamblea_parquequilin/)
-[facebook]()
+[facebook](https://www.facebook.com/AsambleaParqueQuilin)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|459|192|35|0|
 
 ---
 
-* **Actividad:**   
+* **Actividad:**    
 
-* Primera Publicación IG
+* Primera Publicación IG 11 de abril del 2020
 
 ---
 ### Frecuencia de publicación.
@@ -48,6 +48,11 @@ Actividades:
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
+
+“Parque Quilín” es un colectivo de vecin@s del territorio próximo al Parque Quilín. Autoconvocad@s en razón de la coyuntura nacional, articulad@s bajo la necesidad dignificar nuestro territorio y determinad@s a avanzar en la acción social por la transformación de la sociedad.
+Nos levantamos para incidir en el proceso de transformación que Chile atraviesa, tras décadas de desigualdad e injusticia, buscando la posibilidad de encontrarnos, de recuperar espacios y permitirnos dialogar, generar acuerdos y diferencias para desde ahí construir.
+Asamblea Parque Quilín brota como un proyecto territorial, que apuesta por la creación y materialización de nuestras ideas con el objetivo de construir comunidad organizada.
+Nos levantamos hoy, pues es momento de movilizarnos, de tener opinión, de aportar en las decisiones, de contribuir en los cambios. Es tiempo de ser activos y propositivos, de apropiarnos del territorio y de enfrentar un sistema que nos prefiere dormidos. ¡Ven y Participa a través de los canales digitales en Cuarentena!
 
 ---
 ### ¿Que se hace?

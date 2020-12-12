@@ -2,7 +2,7 @@
 # Asamblea Territorial Nueva Habana
 
 [instagram](https://www.instagram.com/asambleaterritorialnva.habana/)
-[facebook]()
+[facebook](https://www.facebook.com/campamento.nuevahabana)
 [twitter]()
 <correo@correo.cl>
 ---

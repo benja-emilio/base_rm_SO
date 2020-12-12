@@ -2,7 +2,7 @@
 # Asamblea Santa Raquel
 
 [instagram](https://www.instagram.com/asambleasantaraquel/)
-[facebook]()
+[facebook](https://www.facebook.com/Asamblea-Santa-Raquel-108988087473194)
 [twitter]()
 <correo@correo.cl>
 ---

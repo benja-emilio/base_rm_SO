@@ -2,7 +2,7 @@
 # Asamblea WAF
 
 [instagram](https://www.instagram.com/asambleawaf/)
-[facebook]()
+[facebook](https://www.facebook.com/AsambleaWAF)
 [twitter]()
 <correo@correo.cl>
 ---

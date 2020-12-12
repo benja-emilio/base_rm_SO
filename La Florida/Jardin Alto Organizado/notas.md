@@ -1,10 +1,10 @@
 #### FOLIO: FLO17
 # Jardín Alto Organizado
 
-[instagram]()
-[facebook]()
+[instagram](https://www.instagram.com/jardin_alto_organizado/)
+[facebook](https://www.facebook.com/Jardinaltoorganizado)
 [twitter]()
-<correo@correo.cl>
+<jardinaltoorganizado@gmail.com>
 ---
 
 ### Representantes
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1390|269|194|0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 28 de octubre del 2019
 
 ---
 ### Frecuencia de publicación.

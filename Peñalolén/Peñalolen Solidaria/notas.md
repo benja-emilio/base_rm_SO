@@ -1,10 +1,10 @@
-#### FOLIO: PEÑ7
-# Coordinadora Feminista Peñalolén
+#### FOLIO: PEÑ8
+# Peñalolén solidaria
 
-[instagram](https://www.instagram.com/coordi_feminista_penalolen/)
-[facebook](https://www.facebook.com/Coordinadora-Feminista-de-Peñalolen-107856607687833/)
+[instagram](https://www.instagram.com/penalolen_solidaria/)
+[facebook]()
 [twitter]()
-<cftpenalolen@gmail.com>
+<correo@correo.cl>
 ---
 
 ### Representantes
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|695|109|62|0|
+|985|1085|105|0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG 27 de julio del 2020
+* Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
