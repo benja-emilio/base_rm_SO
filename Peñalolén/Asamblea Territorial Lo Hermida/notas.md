@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Coordinar y difundir actividades. Realizar programas tipo streamig. Registro de la presencia policial en el territorio.|0|0|0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |

@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Coordinación y difusión de actividades.|0|0|0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
