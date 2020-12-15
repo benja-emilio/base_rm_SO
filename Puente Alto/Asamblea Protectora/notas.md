@@ -1,4 +1,4 @@
-#### FOLIO: PUE14
+#### FOLIO: PUE12
 # Asamblea Protectora
 
 [instagram](https://www.instagram.com/asamblea.protectora/)
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|5059|2378|77|4|
 
 ---
 
-* **Actividad:**   
+* **Actividad:** actividad hasta diciembre del 2020  
 
-* Primera Publicación IG
+* Primera Publicación IG 23 de octubre del 2019
 
 ---
 ### Frecuencia de publicación.

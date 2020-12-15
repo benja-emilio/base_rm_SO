@@ -1,9 +1,9 @@
-#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
-# Asamblea Elisa Correa
+#### FOLIO: FLO21
+# Mujeres y Disidencias Trinidad
 
-[instagram](https://www.instagram.com/asamblea.elisa.correa/)
-[facebook]()
-[twitter](https://twitter.com/asambleaelisa)
+[instagram](https://www.instagram.com/asambleamujeres.trinidad/)
+[facebook](https://www.facebook.com/asambleamujeresydisidenciastrinidad)
+[twitter]()
 <correo@correo.cl>
 ---
 
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|838|220|131|0|
+|1673|230|86|0|
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta noviembre del 2020      
 
-* Primera Publicación IG 5 de Diciembre 2019
+* Primera Publicación IG 14 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.
@@ -40,17 +40,10 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad: Puente Alto, sector Elisa Correa 
+* Sector de la comuna/ciudad:
 
 ---
 ### Describir temas de interés y/o trabajo
-
-* Proceso Constituyente 
-* Libertad para lxs presxs de la revuelta
-* Urbanización y problemática habitacional
-* Protección de los DD.HH
-* Feminismo
-* Crisis sanitaria 
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -59,19 +52,6 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
- 
-* Charlas y actividades formativas
-* Intervención artística 
-* Ferias libres
-* Muralismo
-* Contra información 
-* Cicletadas
-* Marcha 
-* Actividades culturales
-* talleres de primeros auxilios
-* Velatón
-* Cacerolazo 
-* Rifa
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -113,7 +93,3 @@ Actividades:
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
-
-* [Inscripción de apoderados de mesa](https://docs.google.com/forms/d/e/1FAIpQLSdppaz99LaMHTQci7Y8_TSOmkBDHrpvAm1mJTbXtw5cnPP_dA/viewform)
-
-* [Nota de prensa en medio El Ciudadano](https://www.elciudadano.com/especiales/chiledesperto/vecinos-organizados-en-metro-elisa-correa-jamas-participariamos-de-actos-que-perjudiquen-a-nuestros-pobladores/03/04/)

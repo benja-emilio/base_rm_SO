@@ -22,13 +22,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|3280|87|126|3|
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta octubre del 2020   
 
-* Primera Publicación IG
+* Primera Publicación IG 7 de enero del 2020
 
 ---
 ### Frecuencia de publicación.

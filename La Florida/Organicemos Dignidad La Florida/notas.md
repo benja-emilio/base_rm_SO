@@ -27,9 +27,9 @@
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta diciembre del 2020   
 
-* Primera Publicación IG
+* Primera Publicación IG 26 de febrero del 2020
 
 ---
 ### Frecuencia de publicación.

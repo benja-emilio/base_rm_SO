@@ -27,9 +27,9 @@
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta diciembre del 2020
 
-* Primera Publicación IG 11 de febrero del 2020
+* Primera Publicación IG 1 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.
@@ -40,7 +40,7 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Plaza Manzanares (Benito Rebolledo / Exequiel)
 
 ---
 ### Describir temas de interés y/o trabajo

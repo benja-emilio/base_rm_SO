@@ -1,8 +1,8 @@
-#### FOLIO: PUE13
+#### FOLIO: FLO21
 # Asamblea Territorial Trinidad
 
 [instagram](https://www.instagram.com/asambleatrinidad/)
-[facebook]()
+[facebook](https://www.facebook.com/Asamblea-Territorial-Trinidad-La-Florida-101022668222531)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1551|596|118|0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 25 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.

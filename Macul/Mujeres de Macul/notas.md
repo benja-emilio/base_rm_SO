@@ -27,7 +27,7 @@
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa  
 
 * Primera Publicación IG 7 de noviembre del 2019
 
@@ -40,7 +40,7 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Toda la comuna
 
 ---
 ### Describir temas de interés y/o trabajo

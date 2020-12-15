@@ -27,7 +27,7 @@
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta el 30 de noviembre del 2020
 
 * Primera Publicación IG 23 de enero 2020
 
@@ -40,7 +40,7 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Villa Santa Elena
 
 ---
 ### Describir temas de interés y/o trabajo

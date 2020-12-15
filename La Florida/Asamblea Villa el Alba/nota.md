@@ -4,7 +4,7 @@
 [instagram](https://www.instagram.com/asambleaelalba/)
 [facebook]()
 [twitter]()
-<correo@correo.cl>
+<asambleaelalba@gmail.com>
 ---
 
 ### Representantes
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1456|748|370|0|
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta noviembre del 2020  
 
-* Primera Publicación IG
+* Primera Publicación IG 1 de diciembre del 2019
 
 ---
 ### Frecuencia de publicación.

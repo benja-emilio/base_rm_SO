@@ -2,9 +2,9 @@
 # Puente Alto Fuerza Callejera
 
 [instagram](https://www.instagram.com/puente_fuerzacallejera/)
-[facebook]()
+[facebook](https://www.facebook.com/puentefuerzacallejera)
 [twitter]()
-<correo@correo.cl>
+<puentefuerzacallejera@gmail.com>
 ---
 
 ### Representantes
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|2855|832|85|0|
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta diciembre del 2020  
 
-* Primera Publicación IG
+* Primera Publicación IG 8 de mayo del 2020
 
 ---
 ### Frecuencia de publicación.
@@ -48,6 +48,9 @@ Actividades:
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
+
+Estamos de acuerdo de que todo puede cambiar y mejorar ,por eso surge el impulso de poder aportar un cambio.
+Estaremos recibiendo durante la semana cualquier tipo de ayuda o donacion para las personas que se encuentran en situacion de calle (comuna de puente alto) en este momento,en dias dificiles donde no todos tenemos la opcion del lugar llamado "HOGAR".🔥
 
 ---
 ### ¿Que se hace?

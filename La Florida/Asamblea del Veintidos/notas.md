@@ -27,7 +27,7 @@
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta noviembre del 2020  
 
 * Primera Publicación IG 29 de diciembre del 2019
 

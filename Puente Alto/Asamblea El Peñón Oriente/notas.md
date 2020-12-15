@@ -2,7 +2,7 @@
 # Asamblea El Peñón Oriente
 
 [instagram](https://www.instagram.com/asamblea.elpenonoriente/)
-[facebook]()
+[facebook](https://www.facebook.com/Asamblea.elpenonoriente)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1206|1091|67|0|
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta noviembre del 2020  
 
-* Primera Publicación IG
+* Primera Publicación IG 21 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.

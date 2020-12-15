@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Coordinación y difusión de actividades. Difusión de información y afiches.|0|0|0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -27,20 +27,20 @@
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta el 23 de noviembre del 2020 
 
 * Primera Publicación IG 1 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: una frecuencia alta de publicaciones, aunque con una baja en el mes de septiembre.
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de Macul, Villa Santa Carolina. 
 
 ---
 ### Describir temas de interés y/o trabajo

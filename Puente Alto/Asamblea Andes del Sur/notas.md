@@ -2,7 +2,7 @@
 # Asamblea Andes del Sur
 
 [instagram](https://www.instagram.com/asamblea.andesdelsur/)
-[facebook]()
+[facebook](https://www.facebook.com/Asamblea-territorial-Villa-Andes-del-Sur-107106054049704)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1379|559|127|0|
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta septiembre del 2020   
 
-* Primera Publicación IG
+* Primera Publicación IG 18 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.

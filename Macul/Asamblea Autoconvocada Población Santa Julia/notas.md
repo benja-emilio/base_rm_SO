@@ -27,7 +27,7 @@
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa   
 
 * Primera Publicación IG 13 de noviembre del 2019
 
@@ -40,7 +40,7 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Población Santa Julia
 
 ---
 ### Describir temas de interés y/o trabajo

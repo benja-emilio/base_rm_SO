@@ -2,7 +2,7 @@
 # Asamblea Villa Valle del Sol
 
 [instagram](https://www.instagram.com/asamblea.valledelsol/)
-[facebook]()
+[facebook](https://www.facebook.com/Asamblea-Valle-del-Sol-104697434333754)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|861|258|103|0|
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta noviembre del 2020   
 
-* Primera Publicación IG
+* Primera Publicación IG 20 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.

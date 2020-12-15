@@ -4,7 +4,7 @@
 [instagram](https://www.instagram.com/cabildoleightonylascaletas/)
 [facebook]()
 [twitter]()
-<correo@correo.cl>
+<cabildoleightonpuentalto@gmail.com>
 ---
 
 ### Representantes
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|630|248|178|0|
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta diciembre del 2020   
 
-* Primera Publicación IG
+* Primera Publicación IG 30 de octubre 2019
 
 ---
 ### Frecuencia de publicación.

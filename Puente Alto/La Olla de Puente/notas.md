@@ -1,7 +1,7 @@
 #### FOLIO: PUE5
 # La Olla de Puente 
 
-[instagram](https://www.instagram.com/cordon_trinidad/)
+[instagram](https://www.instagram.com/laolladepuente/)
 [facebook]()
 [twitter]()
 <correo@correo.cl>
@@ -18,18 +18,18 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|0|No tiene|0|0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|2650|217|106|0|
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta diciembre del 2020   
 
-* Primera Publicación IG
+* Primera Publicación IG 6 de abril del 2020
 
 ---
 ### Frecuencia de publicación.

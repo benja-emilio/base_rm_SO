@@ -27,7 +27,7 @@
 
 ---
 
-* **Actividad:**   
+* **Actividad:** activa hasta el 3 de diciembre del 2020
 
 * Primera Publicación IG 20 de marzo del 2020
 
@@ -40,7 +40,7 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Villa Macul. 
 
 ---
 ### Describir temas de interés y/o trabajo
