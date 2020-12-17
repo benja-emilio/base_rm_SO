@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|Coordinación y difusión de actividades. Difusión de información y afiches.|0|0|0|
+|Coordinación y difusión de actividades. Difusión de información y afiches.|0|0|[canal de youtube](https://www.youtube.com/channel/UCLTIdALxktsTTFMALLFxVrQ) |
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -34,7 +34,7 @@
 ---
 ### Frecuencia de publicación.
 
-Publicaciones: una frecuencia alta de publicaciones, aunque con una baja en el mes de septiembre.
+Publicaciones: 
 
 Actividades:
 
@@ -45,6 +45,10 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Proceso constituyente
+* Feminismo
+* Protección de los DD.HH
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
@@ -52,6 +56,11 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Asambleas 
+* Programas online de conversaciones (streaming)
+* Charlas y actividades formativas
+* Creación de huertos urbanos
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

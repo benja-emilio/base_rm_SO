@@ -49,6 +49,9 @@ Actividades:
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+El fin de nuestro movimiento es ayudar a todas las personas que necesite ayuda en estos tiempos de crisis.
+Realizaremos una olla común los días sábados,donde nos acercaremos a las personas en situación de calle en puente alto.
+
 Estamos de acuerdo de que todo puede cambiar y mejorar ,por eso surge el impulso de poder aportar un cambio.
 Estaremos recibiendo durante la semana cualquier tipo de ayuda o donacion para las personas que se encuentran en situacion de calle (comuna de puente alto) en este momento,en dias dificiles donde no todos tenemos la opcion del lugar llamado "HOGAR".🔥
 

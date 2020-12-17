@@ -4,7 +4,7 @@
 [instagram](https://www.instagram.com/asambleavillaohiggins/)
 [facebook](https://www.facebook.com/coordinadora.villaohiggins)
 [twitter]()
-<correo@correo.cl>
+<cvillaohiggins@gmail.com>
 ---
 
 ### Representantes

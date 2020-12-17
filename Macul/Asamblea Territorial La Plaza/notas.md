@@ -45,13 +45,26 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Feminismo
+* Protección de los DD.HH
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Agitación y propaganda 
+* Centro de acopio
+* Asambleas 
+* Olla común
+* Marchas  
+* Sanitización barrial
+* Cacerolazo 
+* Charlas y actividades formativas
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

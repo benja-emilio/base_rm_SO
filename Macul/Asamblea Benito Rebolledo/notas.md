@@ -45,13 +45,33 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Proceso constituyente
+* Conflicto Mapuche
+* Protección de los DD.HH
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+> "¿Que es la Asamblea Benito Rebolledo? 🤔
+
+Posterior al Estado de Emergencia decretado por el Presidente Sebastián Piñera el pasado 19 de Octubre, el pueblo de Chile se volcó a la calles en rebeldía, desafiando el toque de queda y a los militares para poner en el tapete la agenda social que por más de 30 años nos han negado los políticos y empresarios.
+En este contexto un grupo de personas se reunieron en la Avenida Pintor Benito Rebolledo con Exequiel Fernández para hacer sonar sus cacerolas, cantar canciones al ritmo de un Karaoke bailable🎵. Es ahí donde algunos de los asistentes a ese caceroleo proponen proyectar ese pequeño grupo a convertirlo en una Asamblea Territorial y autoconvocada para dar una pequeña organización en el barrio. Es así como nace la Asamblea Benito Rebolledo, tomando el nombre de la avenida a la cual participamos caceroleando, pero también rescatando la memoria del Pintor anarquista Benito Rebolledo✊🖌, que se hizo conocido por sus obras de artes que denunciaban la desigualdad social a mediados de los años 20’ del siglo pasado. También destacando que Benito participó en la Asamblea Constituyente de Asalariados e Intelectuales entre los días 8 y 11 de marzo de 1925 en el Teatro Municipal.
+A ya casi tres meses de haber conformado la Asamblea Territorial Benito Rebolledo, hemos impulsado diversas actividades en el barrio tales como son jornadas recreativas para los niños y las niñas, charlas sobre cómo pensar un Chile mejor (en torno a Educación, Salud, Trabajo, Pensiones, etc..), actividades musicales, ollas comunes, peliculas, etc. Así como también participamos en otras instancias como la Articulación Territorial Macúl, donde concurren otras 15 organizaciones territoriales y sociales de nuestra comuna; y de la Coordinadora de Asambleas Territoriales (CAT)🐱 que es una instancia para reunir en un proyecto común todas las asambleas territoriales que han surgido por Santiago y poder disputarle la agenda a los poderosos de este país.
+
+Somos un grupo de vecinos que queremos conquistar lo mejor para el barrio y poder ser un granito de arena para construir un Chile mejor. ¡Te esperamos!"😊
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Asambleas 
+* Marchas 
+* Cacerolazo 
+* Actividades culturales
+* Charlas y actividades formativas
+* Olla común 
+* Agitación y propaganda 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

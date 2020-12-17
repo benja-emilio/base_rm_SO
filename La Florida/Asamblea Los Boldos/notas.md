@@ -34,7 +34,7 @@
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: mutiples publicaciones mensuales al principio, decayendo desde el mes de marzo. No hay publicaciones en octubre. 
 
 Actividades:
 
@@ -47,6 +47,7 @@ Actividades:
 
 * Feminismo
 * Red de abastecimiento
+* Recuperación de la memoria
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.

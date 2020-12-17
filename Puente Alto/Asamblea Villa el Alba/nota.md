@@ -2,7 +2,7 @@
 # Asamblea Villa El Alba
 
 [instagram](https://www.instagram.com/asambleaelalba/)
-[facebook]()
+[facebook](https://www.facebook.com/asambleavillaelalba)
 [twitter]()
 <asambleaelalba@gmail.com>
 ---
@@ -45,6 +45,13 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Protección de la infancia
+* Protección medioambiental
+* Protección de los DD.HH
+* Conflicto Mapuche
+* Feminismo
+* Apropiación del territorio
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
@@ -52,6 +59,16 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Creación de huertos urbanos
+* Asambleas
+* Charlas y actividades formativas
+* Rifa
+* Marchas 
+* Velatón
+* Cacerolazo
+* Actividades culturales
+* Muralismo
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

@@ -49,7 +49,6 @@ Actividades:
 * Proceso constituyente
 * Protección medioambiental
 * Red de oficios
-* Tuitazo
 * Crisis sanitaria
 * Sistema de seguridad social (pensiones)
 * Libertad para lxs presxs de la revuelta
@@ -74,6 +73,7 @@ Actividades:
 * Programas online de conversaciones (streaming)
 * Agitación y propaganda 
 * Olla común 
+* Tuitazo
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

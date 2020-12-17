@@ -45,6 +45,11 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Feminismo
+* Libertad para lxs presxs de la revuelta
+* Protección medioambiental
+* Crisis sanitaria 
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
@@ -52,6 +57,15 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Asambleas
+* Velatón
+* Agitación y propaganda
+* Actividades culturales
+* talleres de primeros auxilios
+* Charlas y actividades formativas
+* Olla común 
+* Ferias libres
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

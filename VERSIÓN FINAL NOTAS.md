@@ -61,6 +61,7 @@ Actividades:
 * Educación y Escolarización
 * Economía local 
 * Sistema de seguridad social (pensiones)
+* Apropiación del territorio
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -105,6 +106,7 @@ Actividades:
 * Once comunitaria
 * Trawün
 * Banderazo 
+* Reforestación
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

@@ -1,4 +1,4 @@
-#### FOLIO: PUE12
+#### FOLIO: PUE11
 # Asamblea Protectora
 
 [instagram](https://www.instagram.com/asamblea.protectora/)
@@ -45,6 +45,10 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Protección medioambiental
+* Protección de la infancia
+* Conflicto Mapuche
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
@@ -52,6 +56,13 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Contra información 
+* Asambleas 
+* Actividades culturales
+* Velatón 
+* Marchas 
+* Centro de acopio 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

@@ -64,7 +64,7 @@ Actividades: Se puede apreciar una actividad continua desde el mes de marzo hast
 * Programas online de conversaciones (streaming)
 * Charlas y actividades formativas
 * Muralismo
-* Caravana}
+* Caravana
 * Centro de acopio
 * Velatón 
 * Banderazo 

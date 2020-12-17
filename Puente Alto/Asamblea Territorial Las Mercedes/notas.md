@@ -45,6 +45,10 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Conflicto Mapuche
+* Recuperación de la memoria
+* Feminismo
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
@@ -52,6 +56,13 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Sanitización barrial 
+* Olla común 
+* Centro de acopio
+* Asambleas 
+* Cacerolazo 
+* Marchas 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

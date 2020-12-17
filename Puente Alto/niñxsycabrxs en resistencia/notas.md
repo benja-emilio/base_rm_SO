@@ -1,10 +1,10 @@
-#### FOLIO: FLO4
-# Organicemos Dignidad La Florida
+#### FOLIO: PUE13
+# Niñxs y Cabrxs en resistencia
 
-[instagram](https://www.instagram.com/organicemosdignidadlaflorida/)
-[facebook](https://www.facebook.com/Organicemos-Dignidad-en-La-Florida-112015640502599)
+[instagram]()
+[facebook]()
 [twitter]()
-<organicemosdignidadlaflorida@gmail.com>
+<correo@correo.cl>
 ---
 
 ### Representantes
@@ -18,18 +18,18 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|Difusión de información y comunicados, ademas de coordinar y difundir sus actividades|0|0|0|
+|0|0|0|0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|1757|2009|221|0|
+|0|0|0|0|
 
 ---
 
-* **Actividad:** activa hasta diciembre del 2020   
+* **Actividad:**   
 
-* Primera Publicación IG 26 de febrero del 2020
+* Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
@@ -45,26 +45,28 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
-* Proceso constituyente
-* Crisis sanitaria 
-* Red de abastecimiento 
-* Feminismo
+* Protección de la infancia 
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+> Ante la contingente violencia y violación de los derechos humanos en la comuna por parte del Estado, surge la necesidad de reacentuar la niñez, abriendo espacios donde los niños y niñas puedan y tengan la oportunidad de ser mirados como sujetes politicxs, que al igual que el resto de la población viven las afecciones de la desigualdad social que nos inunda, así como vulneraciones vinculadas a su propio proceso etario, que en general son invisibilizadas dejándolos como sujetxs inválidxs en la reflexión y acción política. Creemos que el silencio y el adultocentrismo son una cara más de este mismo sistema que nos sobrecoge y nos incapacita.
+
+> Sumado a ello ponemos en evidencia que la represión dirigida a niñxs y adolecentes se ha vivido crudamente en la comuna; recordemos que han sido lxs estudiantes quien es han iniciado esta revuelta y en Puente Alto son ellos quienes a diario han hecho un llamado a no bajar los brazos, guiando a no seguir con esta falsa normalidad. Sin embargo, esto no ha sido fácil y ya que las FF.EE no disciernen en su actuar. Las balas han sido indiscriminadas como también las detenciones ilegales. Es en este escenario donde en dos de las comisarías de Puente Alto (en la 20 comisaría- plaza de Puente Alto y en la 38 comisaría- Est. Sotero del Rio) se ejerció tortura y violencia sexual contra dos de nuestros jovenes, además de ello hoy Tomás Morales, otro estudiante sigue privado de libertad sin pruebas contundentes. ·
+
+> ¡¡A no bajar los brazos!! ·
+· Instamos a abrir espacios que ayuden a visibilizar las demandas de los niñxs, a divulgar información que de cuenta de ello y denuncia la violencia ejercida contra la niñez. Buscamos también manos apañadoras en dicho proceso.
+·
+La revolución parte en casa, a darnos y abrir nuestros propios espacios de lucha. ¡¡Lxs niñxs también tenemos algo que decir!! #niñxsluchando #chiledesperto #niunojomenos #violenciainfantil
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
 
-* Marchas 
-* Emplazamiento a autoridades
-* Rifa
-* Programas online de conversaciones (streaming)
-* Olla común 
-* Centro de acopio  
-* Sanitización barrial  
+* Asambleas 
+* Charlas y actividades formativas
+* Actividades culturales
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
